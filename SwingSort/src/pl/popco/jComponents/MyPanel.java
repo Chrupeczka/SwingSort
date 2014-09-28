@@ -59,7 +59,7 @@ public class MyPanel extends JPanel implements ActionListener{
 		setPreferredSize(dimension);
 		setBackground(Color.WHITE);
 		
-		
+		System.out.println("zmiana na probe");
 	}
 	
 	
